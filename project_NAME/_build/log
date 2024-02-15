@@ -1,0 +1,23 @@
+# dune build New2.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/clement/.cache/dune/db
+# Workspace root: /home/clement/Documents/OcamlProject/project_NAME
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/home/clement/Documents/OcamlProject/project_NAME/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /home/clement/.opam/monswitch/bin/ocamlc.opt -config > /tmp/dune_5341f8_output
