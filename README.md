@@ -1,3 +1,4 @@
+# Why OCaml?
 OCaml might seem like an unusual choice compared to more widely used languages, but it has some compelling qualities that make it valuable for specific use cases. Here are a few reasons why people might choose OCaml:
 
 1. Functional Programming with Performance: OCaml combines the functional programming paradigm with impressive performance. Its compiler is highly optimized, resulting in code that can be very fast—closer to C++ performance in many cases. It also supports imperative and object-oriented styles, making it a versatile choice for complex applications.
